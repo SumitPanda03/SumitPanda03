@@ -9,9 +9,6 @@
 
 - 🌱 I’m currently learning **ReactNative, Three.js, Microservices**
 
-- 👯 I’m looking to collaborate on **GSOC 2024 and Hacktober Fest 2023**
-
-- 🤝 I’m looking for help with **GSOC 2024**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SumitPanda03)
 
